@@ -3,12 +3,12 @@
     position: relative;
   }
   
-  .has-art a {
-    padding-left: 30px !important;
+  .has-art > a {
+    padding-left: 34px !important;
   }
   
   .exc-trigger {
-      position: absolute;
+    position: absolute;
     left: 15px;
     top: 12px;
   }
